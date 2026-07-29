@@ -2,10 +2,13 @@
 
 Auto-tracked DSA solutions by [@20it2324-source](https://github.com/20it2324-source). Powered by **DSA Tracker**.
 
-**Total solved:** 30
+**Total solved:** 33
 
 | Problem | Platform | Difficulty | Category | Link |
 | --- | --- | --- | --- | --- |
+| Smallest Palindromic Rearrangement II | LeetCode | Hard | Strings | [link](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) |
+| 3Sum | LeetCode | Medium | Arrays | [link](https://leetcode.com/problems/3sum/) |
+| 3Sum | LeetCode | Medium | Arrays | [link](https://leetcode.com/problems/3sum/) |
 | 3Sum | LeetCode | Medium | Arrays | [link](https://leetcode.com/problems/3sum/) |
 | 3Sum | LeetCode | Medium | Arrays | [link](https://leetcode.com/problems/3sum/) |
 | Palindrome Number | LeetCode | Easy | Strings | [link](https://leetcode.com/problems/palindrome-number/) |
