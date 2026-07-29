@@ -2,10 +2,11 @@
 
 Auto-tracked DSA solutions by [@20it2324-source](https://github.com/20it2324-source). Powered by **DSA Tracker**.
 
-**Total solved:** 22
+**Total solved:** 23
 
 | Problem | Platform | Difficulty | Category | Link |
 | --- | --- | --- | --- | --- |
+| Largest Element In Array | GFG | Unknown | Arrays | [link](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/) |
 | Subarray With Given Sum | GFG | Unknown | Arrays | [link](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/) |
 | Subarray With Given Sum | GFG | Unknown | Arrays | [link](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/) |
 | Subarray With Given Sum | GFG | Unknown | Arrays | [link](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/) |
