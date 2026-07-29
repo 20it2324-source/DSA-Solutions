@@ -6,11 +6,6 @@ Solved on **LeetCode** · Difficulty: **Easy** · Category: **Strings**
 
 ## Solution
 
-```cpp
-class Solution {
-public:
-    bool isPalindrome(int x) {
-
-    }
-};
+```python
+-231 <= x <= 231 - 1
 ```
