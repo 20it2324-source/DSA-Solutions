@@ -2,10 +2,11 @@
 
 Auto-tracked DSA solutions by [@20it2324-source](https://github.com/20it2324-source). Powered by **DSA Tracker**.
 
-**Total solved:** 28
+**Total solved:** 29
 
 | Problem | Platform | Difficulty | Category | Link |
 | --- | --- | --- | --- | --- |
+| 3Sum | LeetCode | Medium | Arrays | [link](https://leetcode.com/problems/3sum/) |
 | Palindrome Number | LeetCode | Easy | Strings | [link](https://leetcode.com/problems/palindrome-number/) |
 | Palindrome Number | LeetCode | Easy | Strings | [link](https://leetcode.com/problems/palindrome-number/) |
 | Add Two Numbers | LeetCode | Medium | Linked List | [link](https://leetcode.com/problems/add-two-numbers/) |
