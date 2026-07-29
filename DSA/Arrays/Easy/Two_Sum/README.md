@@ -6,6 +6,11 @@ Solved on **LeetCode** · Difficulty: **Easy** · Category: **Arrays**
 
 ## Solution
 
-```python
-2 <= nums.length <= 104
+```cpp
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+
+    }
+};
 ```
