@@ -6,11 +6,6 @@ Solved on **LeetCode** · Difficulty: **Medium** · Category: **Arrays**
 
 ## Solution
 
-```cpp
-class Solution {
-public:
-    vector<vector<int>> threeSum(vector<int>& nums) {
-
-    }
-};
+```python
+nums[i] + nums[j] + nums[k] == 0
 ```
