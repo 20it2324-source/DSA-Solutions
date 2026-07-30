@@ -2,10 +2,11 @@
 
 Auto-tracked DSA solutions by [@20it2324-source](https://github.com/20it2324-source). Powered by **DSA Tracker**.
 
-**Total solved:** 34
+**Total solved:** 35
 
 | Problem | Platform | Difficulty | Category | Link |
 | --- | --- | --- | --- | --- |
+| Leaders In An Array | GFG | Unknown | Arrays | [link](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/) |
 | Remove Element | LeetCode | Easy | Arrays | [link](https://leetcode.com/problems/remove-element/) |
 | Smallest Palindromic Rearrangement II | LeetCode | Hard | Strings | [link](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) |
 | 3Sum | LeetCode | Medium | Arrays | [link](https://leetcode.com/problems/3sum/) |
