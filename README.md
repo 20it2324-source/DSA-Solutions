@@ -2,10 +2,11 @@
 
 Auto-tracked DSA solutions by [@20it2324-source](https://github.com/20it2324-source). Powered by **DSA Tracker**.
 
-**Total solved:** 38
+**Total solved:** 39
 
 | Problem | Platform | Difficulty | Category | Link |
 | --- | --- | --- | --- | --- |
+| Subarray With Given Sum | GFG | Unknown | Arrays | [link](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/) |
 | Assessment 6 - RKGIT X GFG - CPP | GFG | Unknown | Uncategorized | [link](https://practice.geeksforgeeks.org/contest/assessment-6-rkgit-x-gfg-cpp-5927/problems) |
 | Kadanes Algorithm | GFG | Unknown | Dynamic Programming | [link](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/) |
 | most simple answer for humans to understand | GFG | Unknown | Uncategorized | [link](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/) |
