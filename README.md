@@ -2,10 +2,11 @@
 
 Auto-tracked DSA solutions by [@20it2324-source](https://github.com/20it2324-source). Powered by **DSA Tracker**.
 
-**Total solved:** 41
+**Total solved:** 42
 
 | Problem | Platform | Difficulty | Category | Link |
 | --- | --- | --- | --- | --- |
+| Maximum Score From Removing Stones | LeetCode | Medium | Queue | [link](https://leetcode.com/problems/maximum-score-from-removing-stones/) |
 | Distance Between Bus Stops | LeetCode | Easy | Arrays | [link](https://leetcode.com/problems/distance-between-bus-stops/) |
 | Stone Game | LeetCode | Medium | Arrays | [link](https://leetcode.com/problems/stone-game/) |
 | Subarray With Given Sum | GFG | Unknown | Arrays | [link](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/) |
