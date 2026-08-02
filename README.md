@@ -2,10 +2,11 @@
 
 Auto-tracked DSA solutions by [@20it2324-source](https://github.com/20it2324-source). Powered by **DSA Tracker**.
 
-**Total solved:** 39
+**Total solved:** 40
 
 | Problem | Platform | Difficulty | Category | Link |
 | --- | --- | --- | --- | --- |
+| Stone Game | LeetCode | Medium | Arrays | [link](https://leetcode.com/problems/stone-game/) |
 | Subarray With Given Sum | GFG | Unknown | Arrays | [link](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/) |
 | Assessment 6 - RKGIT X GFG - CPP | GFG | Unknown | Uncategorized | [link](https://practice.geeksforgeeks.org/contest/assessment-6-rkgit-x-gfg-cpp-5927/problems) |
 | Kadanes Algorithm | GFG | Unknown | Dynamic Programming | [link](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/) |
