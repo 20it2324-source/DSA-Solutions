@@ -2,10 +2,11 @@
 
 Auto-tracked DSA solutions by [@20it2324-source](https://github.com/20it2324-source). Powered by **DSA Tracker**.
 
-**Total solved:** 44
+**Total solved:** 45
 
 | Problem | Platform | Difficulty | Category | Link |
 | --- | --- | --- | --- | --- |
+| Search Insert Position | LeetCode | Easy | Arrays | [link](https://leetcode.com/problems/search-insert-position/) |
 | Stone Game III | LeetCode | Hard | Arrays | [link](https://leetcode.com/problems/stone-game-iii/) |
 | Online Stock Span | LeetCode | Medium | Stack | [link](https://leetcode.com/problems/online-stock-span/) |
 | Maximum Score From Removing Stones | LeetCode | Medium | Queue | [link](https://leetcode.com/problems/maximum-score-from-removing-stones/) |
