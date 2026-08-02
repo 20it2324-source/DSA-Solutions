@@ -2,10 +2,11 @@
 
 Auto-tracked DSA solutions by [@20it2324-source](https://github.com/20it2324-source). Powered by **DSA Tracker**.
 
-**Total solved:** 40
+**Total solved:** 41
 
 | Problem | Platform | Difficulty | Category | Link |
 | --- | --- | --- | --- | --- |
+| Distance Between Bus Stops | LeetCode | Easy | Arrays | [link](https://leetcode.com/problems/distance-between-bus-stops/) |
 | Stone Game | LeetCode | Medium | Arrays | [link](https://leetcode.com/problems/stone-game/) |
 | Subarray With Given Sum | GFG | Unknown | Arrays | [link](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/) |
 | Assessment 6 - RKGIT X GFG - CPP | GFG | Unknown | Uncategorized | [link](https://practice.geeksforgeeks.org/contest/assessment-6-rkgit-x-gfg-cpp-5927/problems) |
