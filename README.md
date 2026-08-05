@@ -2,10 +2,11 @@
 
 Auto-tracked DSA solutions by [@20it2324-source](https://github.com/20it2324-source). Powered by **DSA Tracker**.
 
-**Total solved:** 45
+**Total solved:** 46
 
 | Problem | Platform | Difficulty | Category | Link |
 | --- | --- | --- | --- | --- |
+| While Loop | GFG | Unknown | Uncategorized | [link](https://www.geeksforgeeks.org/problems/while-loop/) |
 | Search Insert Position | LeetCode | Easy | Arrays | [link](https://leetcode.com/problems/search-insert-position/) |
 | Stone Game III | LeetCode | Hard | Arrays | [link](https://leetcode.com/problems/stone-game-iii/) |
 | Online Stock Span | LeetCode | Medium | Stack | [link](https://leetcode.com/problems/online-stock-span/) |
