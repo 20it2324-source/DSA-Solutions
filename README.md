@@ -2,10 +2,11 @@
 
 Auto-tracked DSA solutions by [@20it2324-source](https://github.com/20it2324-source). Powered by **DSA Tracker**.
 
-**Total solved:** 46
+**Total solved:** 47
 
 | Problem | Platform | Difficulty | Category | Link |
 | --- | --- | --- | --- | --- |
+| Mock Test 3 - RKGIT X GFG | GFG | Unknown | Uncategorized | [link](https://practice.geeksforgeeks.org/contest/mock-test-3-rkgit-x-gfg-4907/problems) |
 | While Loop | GFG | Unknown | Uncategorized | [link](https://www.geeksforgeeks.org/problems/while-loop/) |
 | Search Insert Position | LeetCode | Easy | Arrays | [link](https://leetcode.com/problems/search-insert-position/) |
 | Stone Game III | LeetCode | Hard | Arrays | [link](https://leetcode.com/problems/stone-game-iii/) |
