@@ -6,3 +6,4 @@ class Solution:
         while i * i < n:
             count += 1
             i += 1
+        return count
