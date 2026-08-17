@@ -2,10 +2,11 @@
 
 Auto-tracked DSA solutions by [@20it2324-source](https://github.com/20it2324-source). Powered by **DSA Tracker**.
 
-**Total solved:** 51
+**Total solved:** 52
 
 | Problem | Platform | Difficulty | Category | Link |
 | --- | --- | --- | --- | --- |
+| Count Set Bits in 1 to n | GFG | Easy | Bit Manipulation | [link](https://www.geeksforgeeks.org/batch/dsa-cpp-rkgit/track/bitmagic-dsa-cpp-rkgit/problem/count-total-set-bits-1587115620) |
 | Check K-th Bit | GFG | Easy | Bit Manipulation | [link](https://www.geeksforgeeks.org/batch/dsa-cpp-rkgit/track/bitmagic-dsa-cpp-rkgit/problem/check-whether-k-th-bit-is-set-or-not-1587115620) |
 | Bitwise Operators | GFG | Easy | Bit Manipulation | [link](https://www.geeksforgeeks.org/batch/dsa-cpp-rkgit/track/bitmagic-dsa-cpp-rkgit/problem/bitwise-operators) |
 | Find The Median | GFG | Unknown | Uncategorized | [link](https://www.geeksforgeeks.org/problems/find-the-median0527/) |
