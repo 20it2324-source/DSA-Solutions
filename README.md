@@ -2,10 +2,11 @@
 
 Auto-tracked DSA solutions by [@20it2324-source](https://github.com/20it2324-source). Powered by **DSA Tracker**.
 
-**Total solved:** 49
+**Total solved:** 50
 
 | Problem | Platform | Difficulty | Category | Link |
 | --- | --- | --- | --- | --- |
+| Bitwise Operators | GFG | Easy | Bit Manipulation | [link](https://www.geeksforgeeks.org/batch/dsa-cpp-rkgit/track/bitmagic-dsa-cpp-rkgit/problem/bitwise-operators) |
 | Find The Median | GFG | Unknown | Uncategorized | [link](https://www.geeksforgeeks.org/problems/find-the-median0527/) |
 | Count Squares | GFG | Unknown | Uncategorized | [link](https://www.geeksforgeeks.org/problems/count-squares3649/) |
 | Mock Test 3 - RKGIT X GFG | GFG | Unknown | Uncategorized | [link](https://practice.geeksforgeeks.org/contest/mock-test-3-rkgit-x-gfg-4907/problems) |
