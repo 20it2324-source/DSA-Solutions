@@ -10,7 +10,5 @@ Solved on **GFG** · Difficulty: **Basic** · Category: **Bit Manipulation**
 class Solution:
     def checkKthBit(self, n, k):
         # code here
-        for k in range(n):
-            
-            return (n>>k) & 1
+        return n & (1<<k) !=0
 ```
