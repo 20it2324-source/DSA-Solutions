@@ -2,10 +2,11 @@
 
 Auto-tracked DSA solutions by [@20it2324-source](https://github.com/20it2324-source). Powered by **DSA Tracker**.
 
-**Total solved:** 56
+**Total solved:** 57
 
 | Problem | Platform | Difficulty | Category | Link |
 | --- | --- | --- | --- | --- |
+| Maximum AND Value | GFG | Easy | Uncategorized | [link](https://www.geeksforgeeks.org/batch/dsa-cpp-rkgit/track/bitmagic-dsa-cpp-rkgit/problem/maximum-and-value-1587115620) |
 | All Subsequences of String | GFG | Easy | Strings | [link](https://www.geeksforgeeks.org/batch/dsa-cpp-rkgit/track/bitmagic-dsa-cpp-rkgit/problem/power-set4302) |
 | Find The Number Of Islands | GFG | Unknown | Graphs | [link](https://www.geeksforgeeks.org/problems/find-the-number-of-islands/) |
 | Depth First Traversal For A Graph | GFG | Unknown | Trees | [link](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/) |
